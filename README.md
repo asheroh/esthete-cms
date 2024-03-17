@@ -59,8 +59,10 @@
 >  4. MD5 해시 생성 체크섬 DB 저장
 >  5. Google Cloud Vision API Safe Search
 >  6. Google map Geocoding API 클러스터링
->  7. 프로 작가를 위한 통계 제공
+>  7. 서비스 관리자를 위한 통계 제공
 >     - Chart.js 라이브러리 활용 데이터 시각화
+>     - 저작권 침해 및 악성 유저 신고 처리
+>     - 관리자 계정 추가 및 삭제
 >     - Redis 활용 통계 등록 중복 방지 구현
 
 ---
