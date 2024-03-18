@@ -69,6 +69,8 @@
 
 ### CMS WEB UI 디자인
 
+![Esthete](https://github.com/dgu-web-t3-blackshoe/esthete-cms/assets/102159721/09068a57-5bd5-45d4-bb7a-ffd65121fce4)
+
 https://github.com/dgu-web-t3-blackshoe/esthete-cms/assets/102159721/60060860-f86f-4765-bcb2-6ace3d67fa25
 
 https://github.com/dgu-web-t3-blackshoe/esthete-cms/assets/102159721/bc752696-35e7-4747-ac58-ed881cc494b4
